@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Shauryagulati
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning Web Development along with plans of Blockchain.
-- 📫 You can reach me on LinkedIn via @Shauryagulati
+### Hi there 👋
 
-<!---
-Shauryagulati/Shauryagulati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I'm currently exploring the fascinating world of AI and Data Science
+- 👯 I’m looking to collaborate on Data Science projects
+- 🤔 I’m looking for help with learning of Web3
+- 💬 Ask me about Startups, Tech and Business
+- 🌙 Probably losing sleep thinking about the Multi-verse theory
+- 📫 How to reach me: Send a DM at [@shauryagulati](https://www.linkedin.com/in/shauryagulati)
+- 😄 Pronouns: He/Him
