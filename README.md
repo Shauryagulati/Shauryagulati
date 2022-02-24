@@ -9,6 +9,6 @@
 - 😄 Pronouns: He/Him
 
 <p align=center>
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Shauryagulati&show_icons=true&theme=gruvbox">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shauryagulati&layout=compact&theme=gruvbox">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalkul&show_icons=true&theme=gruvbox">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalkul&layout=compact&theme=gruvbox">
 </p>
