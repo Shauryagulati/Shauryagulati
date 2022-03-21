@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently exploring the fascinating world of AI and Data Science
+- 🔭 I'm currently exploring the fascinating world of AI, Data Science and Web Development
 - 👯 I’m looking to collaborate on Data Science projects
 - 🤔 I’m looking for help with learning of Web3 and Blockchain
 - 💬 Ask me about Startups, Tech and Business
