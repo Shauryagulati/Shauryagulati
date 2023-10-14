@@ -15,7 +15,6 @@
 
 #  Shaurya Gulati
 
-#### Learner
 <img align="right" alt="coding" width="400" src="https://www.darwinrecruitment.se/wp-content/uploads/2021/11/Job-Alerts-1.gif">
 
 - 🔭 Exploring the fascinating world of AI, Data Science, and Web Development <br>
