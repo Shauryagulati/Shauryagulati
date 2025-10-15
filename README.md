@@ -10,7 +10,7 @@ I bridge the gap between **research and production**, ensuring that AI solutions
 
 - 🔭 Currently working on: **RAG Systems**, **AI Fairness Frameworks**, and **LLM Agents**  
 - 👯 Looking to collaborate on: **Applied ML**, **Responsible AI**, and **Multi-Agent Systems**  
-- 🌱 Learning: **AutoGen**, **MLFlow**, **Azure ML**, **LangGraph**, **Vector Databases (Chroma, FAISS)**  
+- 🌱 Learning: **AutoGen**, **MLFlow**, **Azure ML**, **LangGraph**, **Vector Databases (Chroma, FAISS, Milvus)**  
 - 💬 Ask me about: **LLMs, ML Deployment, and Responsible AI**  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shauryagulati) | [shauryagulati@cmu.edu](mailto:shauryagulati@cmu.edu)  | [i.shauryagulati@gmail.com](mailto:i.shauryagulati@gmail.com)
 - 😄 Pronouns: He/Him  
